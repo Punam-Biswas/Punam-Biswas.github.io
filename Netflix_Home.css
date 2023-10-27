@@ -1,0 +1,244 @@
+.bg_clr{
+    background-color: #000;
+    color: #FFFF;
+}
+.background{
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%), url('https://assets.nflxext.com/ffe/siteui/vlv3/6c884f48-f7d8-4a59-9d25-b7c138813aee/ed2b002b-c6c5-459c-9c97-753f50e8286b/IN-en-20230807-popsignuptwoweeks-perspective_alpha_website_medium.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 44em;
+}
+.logo{
+    height: 81px;
+    margin: 25px 2px 0px 145px;
+}
+.language{
+    margin-left: 613px;
+    margin-top: -23px;
+}
+.sign{
+    margin:17px 7px 0px -6px;
+}
+.heading{
+    margin: 191px 229px 7px 270px;
+}
+.unlimited{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 900;
+}
+.t1{
+    text-align: center;
+    font-size: 24px;
+    margin-left: 29px;
+    margin-top: 4px;
+    font-weight: 400;
+    color: rgb(255 255 255);
+}
+.t2{
+    margin: -16px 59px 1px 75px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 18px;
+    color: rgb(255 255 255);
+}
+.search-01{
+    margin-top: 26px;
+    margin-left: 390px;
+    padding: 0px;
+    gap: 7px;
+}
+.gap{
+    position: relative;
+    top: -15px;
+    border-top: 9px solid;
+}
+.stream{
+    margin: 115px -97px 154px 214px
+}
+.enjoy{
+    font-weight: bold;
+    font-size: 3em;
+}
+.xbox{
+      font-size: 23px;
+      font-weight: 400;
+}
+.bird_box{
+    margin: 25px 158px;
+}
+.v1{
+    position: absolute;
+    top: 833px;
+    left: 777px;
+    width: 24%;
+    z-index: -1;
+}
+.stranger_things{
+    margin-left: 199px;
+    margin-top: 36px;
+}
+.Img1{
+    height: 362px;
+}
+.box{
+    width: 267px;
+    margin-left: -379px;
+    border: 2px solid rgba(128,128,128,0.7);
+    height: 104px;
+    border-radius: 19px;
+    background-color: rgb(0,0,0);
+    margin-top: 272px;
+}
+.Img2{
+    margin-left: 11px;
+    height: 89px;
+    margin-top: 6px;
+}
+.str{
+    color: rgb(255,255,255);
+    font-weight: 500;
+    font-size: 15px;
+    margin-left: 71px;
+    margin-top: -83px;
+}
+.dwn{
+    color: #0071eb;
+    font-weight: 400;
+    font-size: 15px;
+    margin: -54px -23px -2px 70px
+}
+.Img3{
+    margin: -105px 0px 0px 208px;
+    height: 41px;
+}
+.watch_anytime{
+    padding: 138px;
+    margin: -439px 31px 0px 550px;
+}
+.s1{
+    font-size: 52px;
+    font-weight: 900;
+}
+span{
+    font-weight: 400;
+    font-size: 22px;
+}
+.offline_shows{
+    padding: 141px;
+    margin: -6px -21px 0px 53px;
+}
+.watch{
+    font-weight: 700;
+    font-size: 73px;
+    margin: -1px 44px 5px -5px;
+}
+.shows{
+    font-weight: 400;
+    font-size: 21px;
+}
+.tv{
+    margin: 104px 152px 0px 11px;
+}
+.v2{
+    position: absolute;
+    top: 1877px;
+    left: 825px;
+    width: 19%;
+    z-index: -1;
+}
+.children{
+    margin: 10px 206px 82px;
+}
+.Img4{
+    width:30em;
+}
+.kids{
+    padding: 88px 1px;
+    margin: -4px 140px 6px -186px;
+}
+.profile{
+    font-weight: 900;
+    font-size: 43px;
+    text-align: left;
+}
+.c_profile{
+    font-weight: 400;
+    font-size: 22px;
+    text-align: left;
+}
+.bp-05{
+    margin: 18px 201px;
+}
+.ques{
+    color: #FFF;
+    text-align: center;
+    font-weight: bold;
+    font-size: 55px;
+    padding: 14px;
+}
+.a1{
+    height: 46px;
+    background-color: rgb(45,45,45);
+}
+.theory{
+    background-color: rgb(45,45,45);
+    color: #FFF;
+    font-size: 22px;
+}
+
+.title{
+    text-align: center;
+    padding: 24px;
+}
+.search{
+    margin-left: 314px;
+    padding: 11px;
+    gap: 7px;
+}
+.btn1{
+    width: 207px;
+    height: 56px;
+    background-color: rgb(229,9,20 );
+    font-size: 28px;
+    color: rgb(255, 255, 255);
+}
+.query{
+    margin: 50px 141px;
+    color: rgba(255,255,255,0.7);
+    font-size: 17px;
+}
+.linkes{
+    gap: 225px;
+    margin: 0px 156px;
+}
+.l1{
+    display: grid;
+    color: rgba(255,255,255,0.7);
+    gap: 10px;
+}
+.option{
+    margin-left: 128px;
+}
+.globe{
+    left: 11px;
+    top: 48px;
+    margin: 1px 26px 0px;
+}
+.select{
+    padding-left: 34px;
+    background: var(--bs-gray-900);
+    margin: 0px 24px;
+    color: #FFF;
+    height: 37px;
+    border-radius: 5px;
+    width: 122px;
+}
+p{
+    padding: 17px;
+    text-align: left;
+    margin-left: 135px;
+    font-size: 13px;
+    color: rgba(255,255,255,0.7);
+}
